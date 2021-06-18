@@ -12,3 +12,4 @@ Examples to illustrate a point:
 
 Helpful Utilities
 * [Truebit Scripts](https://github.com/Chaser0x/truebit-scripts) A collection of shell scripts associated with common actions in Truebit OS.
+* [Wasi-TrueBit)(https://github.com/zippiehq/wasi-truebit) Scripts to build with a WASI environment instead for TrueBit
